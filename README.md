@@ -1,2 +1,4 @@
 # Deep-Learning.
 These tasks were for learning many things in AI, ML, DL, Computer vision, NLP.
+THE "very_good.ipynb" is a project contain a regression model for a company that work on hardware and embeded sysyems,
+someone from the company asked me to do this project for them to predict one value, the data was very complex and bad and and it was like a test for me and I sucessed.
