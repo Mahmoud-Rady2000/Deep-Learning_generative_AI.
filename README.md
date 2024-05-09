@@ -1,2 +1,2 @@
 # Deep-Learning.
-this was only a trail for know more about tensorflow 
+These tasks were for learning many things in AI, ML, DL, Computer vision, NLP.
